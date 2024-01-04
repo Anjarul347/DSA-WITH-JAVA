@@ -1,7 +1,5 @@
-// Input a year and find whether it is a leap year or not.
+package Besic_program;
 
-
-package _01_flow_of_program.solution;
 
 import java.util.Scanner;
 

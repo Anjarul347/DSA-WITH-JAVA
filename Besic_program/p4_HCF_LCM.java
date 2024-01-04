@@ -1,4 +1,6 @@
-package _01_flow_of_program.solution;
+package Besic_program;
+
+
 
 import java.util.Scanner;
 

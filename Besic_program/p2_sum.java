@@ -1,6 +1,8 @@
+package Besic_program;
+
 // Take two numbers and print the sum of both.
 
-package _01_flow_of_program.solution;
+
 
 import java.util.Scanner;
 
